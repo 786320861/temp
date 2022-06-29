@@ -1,0 +1,11 @@
+#alipay
+alipay:
+  appId: "2021003133654374"
+  merchantPrivateKey: ""
+  merchantPublicKey: ""
+  alipayPublicKey: ""
+  signType: "RSA2"
+  protocol: "http"
+  format: "json"
+  charset: "GBK"
+  gatewayHost: "https://openapi.alipay.com/gateway.do"
